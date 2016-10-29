@@ -1,0 +1,464 @@
+.image {
+  background: url(images/image.png);
+  position: absolute;
+  left: 70px;
+  right: 69px;
+  top: 163px;
+  width: 1061px;
+  height: 509px;
+  z-index: 21;
+}
+
+.lifestyle {
+  font: 400 14px / 24px PlayfairDisplay;
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 24px;
+  text-align: center;
+  position: absolute;
+  left: 559px;
+  top: 75px;
+  right: 570px;
+  width: 71px;
+  height: 11px;
+  z-index: 77;
+  height: 11px;
+}
+.minimo {
+    font: 400 30px / 24px Inconsolata;
+    color: #000000;
+    text-transform: uppercase;
+    line-height: 24px;
+    text-align: center;
+    position: absolute;
+    left: 69px;
+    right: 1012px;
+    top: 68px;
+    width: 119px;
+    height: 23px;
+    z-index: auto;
+}
+.music {
+  font: 400 14px / 24px PlayfairDisplay;
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 24px;
+  text-align: center;
+  position: absolute;
+  left: 942px;
+  top: 75px;
+  width: 43px;
+  height: 24px;
+  z-index: 74;
+    
+}
+
+.photodiary {
+  font: 400 14px / 24px PlayfairDisplay;
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 24px;
+  text-align: center;
+  position: absolute;
+  left: 751px;
+  right: 361px;
+  top: 75px;
+  width: 88px;
+  height: 11px;
+  z-index: 76;
+}
+
+.travel {
+  font: 400 14px / 24px PlayfairDisplay;
+  color: #626262;
+  line-height: 24px;
+  left: 1080px;
+  right: 68px;
+  top: 75px;
+  width: 52px;
+  height: 11px;
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  z-index: 75;
+}
+
+.photo{
+    font: 300 14px Ubuntu;
+    color: #b4ad9e;
+    left: 71px;
+    right: 1044px;
+    top: 771px;
+    width: 85px;
+    height: 11px;
+    text-align: center;
+    text-transform: uppercase;
+    position: absolute;
+    z-index: auto;
+}
+.theperfect {
+  font: 400 30px / 24px PlayfairDisplay;
+  color: rgb(98, 98, 98);
+  line-height: 1.2;
+  left: 70px;
+  top: 810px;
+  right: 733px;
+  width: 397px;
+  height: 30px;
+  z-index: 17;
+  position: absolute;
+}
+.article {
+  font-size: 14px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 67.994px;
+  top: 896.25px;
+  width: 659px;
+  height: 255px;
+  z-index: 16;
+}
+.ab{
+    background: url(images/123.png);
+    position: absolute;
+    left: 858px;
+    right: 70px;
+    top: 770px;
+    width: 272px;
+    height: 177px;
+    
+}
+.about{
+    font: 400 24px / 20px PlayfairDisplay;
+    color: #626262;
+    position: absolute;
+    left: 853px;
+    right: 243px;
+    top: 975px;
+    width: 104px;
+    height: 20px;
+}
+.lorem{
+    font: 400 12px / 20px PlayfairDisplay;
+    color: #626262;
+    position: absolute;
+    top: 1015px;
+    left: 854px;
+    right: 70px;
+    width: 276px;
+    height: 73px;
+    line-height: 20px;
+}
+.fb{
+  background: url(images/fb.png);
+  position: absolute;
+  top: 1111px;
+  left: 851px;
+  right: 340px;
+  width: 9px;
+  height: 17px;
+}
+.top{
+    font: 300 14px Ubuntu;
+    color: #b4ad9e;
+    position: absolute;
+    top: 1203px;
+    left: 857px;
+    right: 271px;
+}
+.image1{
+    background: url(images/image1.png);
+    position: absolute;
+    top: 1193px;
+    left: 70px;
+    right: 469px;
+    width: 661px;
+    height: 496px;
+}
+.image2{
+    background: url(images/image2.png);
+    position: absolute;
+    top: 1739px;
+    left: 70px;
+    right: 470px;
+    width: 660px;
+    height: 495px;
+}
+.image3{
+    background: url(images/image3.png);
+    position: absolute;
+    top: 2291px;
+    left: 70px;
+    right: 470px;
+    width: 660px;
+    height: 496px;
+}
+.text{
+    color: #626262;
+    font: italic 14px / 24px PlayfairDisplay;
+    position: absolute;
+    top: 2841px;
+    left: 71px;
+    right: 477px;
+    width: 652px;
+    height: 400px;
+}
+.text1{
+    color: #626262;
+    font: 400 14px / 24px PlayfairDisplay;
+    position: absolute;
+    top: 120px;
+    width: 652px;
+    height: 400px;
+}
+.share{
+    font: 300 13px / 24px Ubuntu;
+    color: #b4ad9e;
+    position: absolute;
+    top: 3319px;
+    left: 610px;
+    right: 550px;
+    font-weight: 300;
+    width: 40px;
+    height: 9px;
+}
+.fb2{
+    background: url(images/fb2.png);
+    position: absolute;
+    top: 3320px;
+    left: 673px;
+    right: 518px;
+    width: 9px;
+    height: 17px;
+    font-weight: 300;
+    
+}
+.tw{
+    background: url(images/tw.png);
+    position: absolute;
+    top: 3322px;
+    left: 699px;
+    right: 483px;
+    width: 18px;
+    height: 13px;
+}
+.g{
+    background: url(images/g+.png);
+    position: absolute;
+    top: 3321px;
+    left: 729px;
+    right: 454px;
+    width: 17px;
+    height: 17px;
+}
+.tum{
+    background: url(images/tumblr.png);
+    position: absolute;
+    top: 3320px;
+    left: 762px;
+    right: 427px;
+    width: 11px;
+    height: 17px;
+}
+.pint{
+    background: url(images/pinterest.png);
+    position: absolute;
+    top: 3320px;
+    left: 789px;
+    right: 393px;
+    width: 18px;
+    height: 17px;
+}
+.bar{
+    background: url(images/background.png);
+    position: absolute;
+    top: 3421px;
+    left: 1px;
+    width: 1199px;
+    height: 97px;
+}
+.terms{
+    font: 400 14px / 24px PlayfairDisplay;
+    color: #000000;
+    position: absolute;
+    top: 3461px;
+    left: 71px;
+    right: 993px;
+    font-weight: 600;
+    width: 136px;
+    line-height: 24px;
+    height: 12px;
+}
+.pr{
+    font: 400 14px / 24px PlayfairDisplay;
+    color: #000000;
+    position: absolute;
+    top: 3461px;
+    left: 224px;
+    right: 930px;
+    font-weight: 600;
+    width: 46px;
+    height: 15px;
+    line-height: 24px;
+}
+.follow{
+    font: 400 14px / 24px PlayfairDisplay;
+    color: #000000;
+    position: absolute;
+    top: 3461px;
+    left: 991px;
+    right: 167px;
+    font-weight: 600;
+    width: 42px;
+    line-height: 24px;
+    height: 12px;
+}
+.fb3{
+    background: url(images/facebook2.png);
+    position: absolute;
+    top: 3466px;
+    left: 1054px;
+    right: 138px;
+    width: 8px;
+    height: 14px;
+}
+.tw2{
+    background: url(images/twitter2.png);
+    position: absolute;
+    top: 3466px;
+    left: 1079px;
+    right: 103px;
+    width: 18px;
+    height: 13px;
+}
+.inst2{
+    background: url(images/instagram2.png);
+    position: absolute;
+    left: 1115px;
+    top: 3466px;
+    right: 70px;
+    width: 15px;
+    height: 15px;
+}
+.instagramc{
+    background: url(images/instagram.png);
+    position: absolute;
+    top: 1111px;
+    left: 876px;
+    right: 306px;
+    width: 18px;
+    height: 17px;
+}
+.pintercts{
+    background: url(images/pinterest123.png);
+    position: absolute;
+    top: 1111px;
+    left: 909px;
+    right: 273px;
+    width: 18px;
+    height: 17px;
+}
+.dot1{
+    background: url(images/Ellisse-3.png);
+    position: absolute;
+    top: 1254px;
+    left: 859px;
+    right: 336px;
+    width: 5px;
+    height: 5px;
+}
+.dot2 {
+    background: url(images/Ellisse-3.png);
+    position: absolute;
+    top: 1324px;
+    left: 859px;
+    right: 336px;
+    width: 5px;
+    height: 5px;
+}
+.dot3{
+    background: url(images/Ellisse-3.png);
+    position: absolute;
+    top: 1394px;
+    left: 859px;
+    right: 336px;
+    width: 5px;
+    height: 5px;
+}
+.aday{
+    font: 400 16px PlayfairDisplay;
+    color: #626262;
+    position: absolute;
+    top: 1247px;
+    left: 885px;
+    right: 142px;
+    width: 173px;
+    height: 17px;
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.com{
+    font: 300 12px Ubuntu;
+    color: #b4ad9e;
+    position: absolute;
+    top: 1278px;
+    font-weight: 300;
+    left: 886px;
+    width: 181px;
+    height: 10px;
+}
+.am{
+    font: 400 16px PlayfairDisplay;
+    color: #626262;
+    position: absolute;
+    top: 1317px;
+    left: 885px;
+    font-weight: 400;
+    width: 121px;
+    height: 14px;
+}
+.com1{
+    font: 300 12px Ubuntu;
+    color: #b4ad9e;
+    position: absolute;
+    top: 1348px;
+    left: 887px;
+    font-weight: 300;
+    width: 180px;
+    height: 10px;
+}
+.cold{
+    color: #626262;
+    font: 400 16px PlayfairDisplay;
+    position: absolute;
+    top: 1387px;
+    left: 886px;
+    font-weight: 400;
+    width: 120px;
+    height: 17px;
+}
+.com2{
+    color: #b4ad9e;
+    font: 300 12px Ubuntu;
+    position: absolute;
+    top: 1420px;
+    left: 887px;
+    width: 180px;
+    height: 10px;
+    font-weight: 300;
+}
+.pick{
+    background: url(images/banner.png);
+    position: absolute;
+    top: 1485px;
+    left: 859px;
+    right: 91px;
+    width: 250px;
+    height: 250px;
+}
+
